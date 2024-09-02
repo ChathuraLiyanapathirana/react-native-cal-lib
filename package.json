@@ -1,6 +1,6 @@
 {
   "name": "react-native-cal-lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "you can select dates in relative format",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
